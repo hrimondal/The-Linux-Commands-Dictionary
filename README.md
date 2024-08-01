@@ -3,5 +3,5 @@
 </center>
 
 <center>
-    <img src="level.jpeg" width="40%">
+    <img src="Label.jpeg" width="40%">
 </center>

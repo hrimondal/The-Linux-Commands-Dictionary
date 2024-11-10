@@ -5,3 +5,6 @@
 <center>
     <img src="Label.jpeg" width="40%">
 </center>
+<body>
+    <p>Let's get started </p>
+</body>

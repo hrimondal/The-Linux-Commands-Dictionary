@@ -9,7 +9,7 @@
     <p>Let's get started </p>
 </body>
 
-<p>
+<div>
 whoami	- Displays current username.  
 id	- Returns users identity  
 hostname	- Sets or prints the name of current host system.  
@@ -26,4 +26,4 @@ lsblk	- Lists block devices.
 lsusb	- Lists USB devices  
 lsof	- Lists opened files.  
 lspci	- Lists PCI devices.  
-</p>
+</div>

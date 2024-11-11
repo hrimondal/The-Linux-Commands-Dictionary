@@ -10,20 +10,20 @@
 </body>
 
 <div>
-whoami	- Displays current username.  
-id	- Returns users identity  
-hostname	- Sets or prints the name of current host system.  
-uname	- Prints basic information about the operating system name and system hardware.  
-pwd	- Returns working directory name.  
-ifconfig	- The ifconfig utility is used to assign or to view an address to a network interface and/or configure network interface parameters.  
-ip	- Ip is a utility to show or manipulate routing, network devices, interfaces and tunnels.  
-netstat	- Shows network status.  
-ss	- Another utility to investigate sockets.  
-ps	- Shows process status.  
-who	Displays who is logged in.  
-env	Prints environment or sets and executes command.  
-lsblk	- Lists block devices.  
-lsusb	- Lists USB devices  
-lsof	- Lists opened files.  
-lspci	- Lists PCI devices.  
+whoami	- Displays current username.  <br>
+id	- Returns users identity  <br>
+hostname	- Sets or prints the name of current host system.  <br>
+uname	- Prints basic information about the operating system name and system hardware.  <br>
+pwd	- Returns working directory name.  <br>
+ifconfig	- The ifconfig utility is used to assign or to view an address to a network interface and/or configure network interface parameters.  <br>
+ip	- Ip is a utility to show or manipulate routing, network devices, interfaces and tunnels.  <br>
+netstat	- Shows network status.  <br>
+ss	- Another utility to investigate sockets.  <br>
+ps	- Shows process status.  <br>
+who	Displays who is logged in.  <br>
+env	Prints environment or sets and executes command.  <br>
+lsblk	- Lists block devices.  <br>
+lsusb	- Lists USB devices  <br>
+lsof	- Lists opened files.  <br>
+lspci	- Lists PCI devices.  <br>
 </div>
